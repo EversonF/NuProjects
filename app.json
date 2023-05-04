@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "NuProjects",
-    "slug": "NuProjects",
+    "name": "nu-projects",
+    "slug": "nu-projects",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
